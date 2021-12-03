@@ -1,4 +1,4 @@
-library(tidyverse)
+library(dplyr)
 
 #input <- read.csv("Day 1/part1_example.txt", header = FALSE)[,1]
 input <- read.csv("Day 1/part1_input.txt", header = FALSE)[,1]

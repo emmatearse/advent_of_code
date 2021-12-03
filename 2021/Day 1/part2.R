@@ -1,3 +1,5 @@
+library(dplyr)
+
 #input <- read.csv("Day 1/part1_example.txt", header = FALSE) %>% `colnames<-`("current_depth")
 input <- read.csv("Day 1/part1_input.txt", header = FALSE) %>% `colnames<-`("current_depth")
 

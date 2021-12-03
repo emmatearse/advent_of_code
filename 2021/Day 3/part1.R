@@ -1,4 +1,5 @@
 library(purrr)
+library(dplyr)
 
 #input <- read.csv("Day 3/example.txt", header = FALSE, colClasses = c("V1" = "character"))[,1]
 input <- read.csv("Day 3/input.txt", header = FALSE, colClasses = c("V1" = "character"))[,1]
